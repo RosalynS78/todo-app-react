@@ -1,0 +1,8 @@
+{
+    "editor.suggest.preview": true,
+    "editor.suggest.shareSuggestSelections": true,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    }
+}
